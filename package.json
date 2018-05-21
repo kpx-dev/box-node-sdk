@@ -27,6 +27,7 @@
     "http-status": "^1.1.0",
     "jsonwebtoken": "^8.2.1",
     "merge-options": "^1.0.1",
+    "nanographql": "^2.0.0",
     "promise-queue": "^2.2.3",
     "request": "^2.85.0",
     "url-template": "^2.0.8",
