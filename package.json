@@ -23,6 +23,7 @@
     "major": "node Makefile.js major"
   },
   "dependencies": {
+    "apollo-fetch": "^0.7.0",
     "bluebird": "^3.5.0",
     "http-status": "^1.1.0",
     "jsonwebtoken": "^8.2.1",
